@@ -1,3 +1,9 @@
+Every Sparkling Sandwich Power Combination can be found in Recipe_List-Sparkling_Complete.txt
+Just ctrl f 'power, 3, type'
+	Example:
+		egg, 3
+		raid, 3, poison
+
 For the less tech savy:
 Open up the text docs
 Ctrl F powers you are looking for
